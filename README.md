@@ -53,9 +53,7 @@
 - Oyunumuzun başlangıç fiyatı 5-10$ aralığında belirlenmiştir.
 - Oyunumuzun severlerine yönelik özel merchandise (tişörtler, kupalar, posterler vb.) ürünleri de piyasaya sürülecektir. Bu, markamızın bilinirliğini artırırken, sadık müşterilerimize farklı kanallardan ulaşmamızı sağlayacaktır.
 
-## Product Backlog URL
-
-[Miro Backlog Board](https://miro.com/app/board/uXjVK7yGtNA=/)
+## Product Backlog 
 
 ---
 
